@@ -1,0 +1,11 @@
+﻿
+{
+    "app": {
+        "port": "4008",
+        "main_url" : "http://159.65.152.164"
+    },
+    "path":{
+        "filepath" : "/var/www/html/imdb/uploads/",
+        "main_path" : "/var/www/html/imdb/"
+    }
+}
